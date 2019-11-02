@@ -1,0 +1,5 @@
+/home/kouler/Projects/Nikak/Nikak/bin/Debug/Nikak.exe
+/home/kouler/Projects/Nikak/Nikak/bin/Debug/Nikak.pdb
+/home/kouler/Projects/Nikak/Nikak/obj/x86/Debug/Nikak.csprojAssemblyReference.cache
+/home/kouler/Projects/Nikak/Nikak/obj/x86/Debug/Nikak.exe
+/home/kouler/Projects/Nikak/Nikak/obj/x86/Debug/Nikak.pdb
